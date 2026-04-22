@@ -21,14 +21,15 @@ Database: PostgreSQL
 
 Build Tools & IDE: Maven, IntelliJ IDEA, GitHub
 
-4️⃣ Usage Flow:
+## 🔄 Usage Flow
+
 Users submit donation details → Organizers review & manage donations → Items are repurposed or redistributed, ensuring nothing goes to waste and every product gets a second chance!
 
-5️⃣ Prerequisites:
+
+## ⚙️ Prerequisites
+
 To run the project:
 
-Java 17, Maven, IntelliJ IDEA installed.
-
-PostgreSQL database set up and running.
-
-GitHub for version control and deployment.
+- Java 17, Maven, IntelliJ IDEA installed  
+- PostgreSQL database set up and running  
+- GitHub for version control and deployment  
