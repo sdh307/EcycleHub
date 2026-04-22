@@ -1,7 +1,7 @@
-1️⃣ About EcycleHub:
+## 📌 About EcycleHub
 EcycleHub is a Java-based web application designed to connect people who want to donate reusable items (like clothes, electronics, furniture, and books) with NGOs and organizations looking to repurpose them — promoting sustainability and reducing environmental waste.
 
-2️⃣ Core Features:
+## 🚀 Core Features
 
 ✔ Public users can donate items with details like name, category, location, and contact info.
 
@@ -11,7 +11,7 @@ EcycleHub is a Java-based web application designed to connect people who want to
 
 ✔ Focuses on promoting a circular economy and reducing landfill waste.
 
-3️⃣ Technology Stack:
+## 🛠️ Technology Stack
 
 Backend: Java 17, Spring Boot, Spring Data JPA, Hibernate, Lombok
 
