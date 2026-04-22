@@ -18,7 +18,7 @@ EcycleHub is a web-based platform developed to promote efficient e-waste managem
 - Database: (Add MySQL if used)
 - API: RESTful Services
 
----
+
 
 ## 📂 Project Structure
 - `src/main/java` → Backend logic
