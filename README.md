@@ -1,46 +1,30 @@
-# ♻️ EcycleHub
+1️⃣ About EcycleHub:
+EcycleHub is a Java-based web application designed to connect people who want to donate reusable items (like clothes, electronics, furniture, and books) with NGOs and organizations looking to repurpose them — promoting sustainability and reducing environmental waste.
 
-## 📌 Overview
-EcycleHub is a web-based platform developed to promote efficient e-waste management. It enables users to manage and recycle electronic waste responsibly through a structured and scalable system.
+2️⃣ Core Features:
+✔ Public users can donate items with details like name, category, location, and contact info.
+✔ Organizers can view, review, and arrange for reuse or redistribution of the donated items.
+✔ Location-based listing helps in identifying region-specific donations.
+✔ Focuses on promoting a circular economy and reducing landfill waste.
 
+3️⃣ Technology Stack:
 
-## 🚀 Features
-- User authentication and management
-- E-waste listing and categorization
-- Efficient data handling using backend services
-- Scalable architecture using Spring Boot
+Backend: Java 17, Spring Boot, Spring Data JPA, Hibernate, Lombok
 
+Frontend: JSP, HTML, CSS
 
+Database: PostgreSQL
 
-## 🛠️ Tech Stack
-- Backend: Java (Spring Boot)
-- Build Tool: Maven
-- Database: (Add MySQL if used)
-- API: RESTful Services
+Build Tools & IDE: Maven, IntelliJ IDEA, GitHub
 
+4️⃣ Usage Flow:
+Users submit donation details → Organizers review & manage donations → Items are repurposed or redistributed, ensuring nothing goes to waste and every product gets a second chance!
 
+5️⃣ Prerequisites:
+To run the project:
 
-## 📂 Project Structure
-- `src/main/java` → Backend logic
-- `src/main/resources` → Config files
-- `pom.xml` → Dependencies
+Java 17, Maven, IntelliJ IDEA installed.
 
+PostgreSQL database set up and running.
 
-
-## ▶️ How to Run
-1. Clone the repository  
-2. Open in IntelliJ/Eclipse  
-3. Run main Spring Boot class  
-4. Access on `http://localhost:8080`
-
-
-
-## 🎯 Future Scope
-- Add frontend (React/Angular)
-- Integrate real-time tracking
-- Deploy on cloud
-
-
-
-## 👨‍💻 Author
-Soumyadeep Hore
+GitHub for version control and deployment.
