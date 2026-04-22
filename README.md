@@ -3,8 +3,11 @@ EcycleHub is a Java-based web application designed to connect people who want to
 
 2️⃣ Core Features:
 ✔ Public users can donate items with details like name, category, location, and contact info.
+
 ✔ Organizers can view, review, and arrange for reuse or redistribution of the donated items.
+
 ✔ Location-based listing helps in identifying region-specific donations.
+
 ✔ Focuses on promoting a circular economy and reducing landfill waste.
 
 3️⃣ Technology Stack:
